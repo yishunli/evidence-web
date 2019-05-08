@@ -1,29 +1,15 @@
-# evidence-web
+# 准备环境
+* 安装[nodejs10.15.3](https://nodejs.org/en/download/)
+* 安装vue cli： npm install -g @vue/cli
 
-## Project setup
+# evidence-web
+以下命令项目根目录下执行
+## 初始化项目
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 启动项目
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
